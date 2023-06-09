@@ -1,0 +1,20 @@
+src/main/java/main.java:13:	CloseResource:	CloseResource: Ensure that resources like this Scanner object are closed after use
+src/main/java/main.java:13:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'scanner' could be declared final
+src/main/java/main.java:15:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'destination' could be declared final
+src/main/java/main.java:17:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'travelers' could be declared final
+src/main/java/main.java:19:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'duration' could be declared final
+src/main/java/main.java:23:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'allInclusive' could be declared final
+src/main/java/main.java:26:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'adventureActivities' could be declared final
+src/main/java/main.java:29:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'spaWellness' could be declared final
+src/main/java/main.java:31:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'cost' could be declared final
+src/main/java/main.java:49:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'destination' is not assigned and could be declared final
+src/main/java/main.java:49:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'duration' is not assigned and could be declared final
+src/main/java/main.java:49:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'travelers' is not assigned and could be declared final
+src/main/java/main.java:50:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'adventureActivities' is not assigned and could be declared final
+src/main/java/main.java:50:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'allInclusive' is not assigned and could be declared final
+src/main/java/main.java:50:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'spaWellness' is not assigned and could be declared final
+src/main/java/main.java:56:	LiteralsFirstInComparisons:	LiteralsFirstInComparisons: Position literals first in String comparisons
+src/main/java/main.java:58:	LiteralsFirstInComparisons:	LiteralsFirstInComparisons: Position literals first in String comparisons
+src/main/java/main.java:74:	LiteralsFirstInComparisons:	LiteralsFirstInComparisons: Position literals first in String comparisons
+src/main/java/main.java:78:	LiteralsFirstInComparisons:	LiteralsFirstInComparisons: Position literals first in String comparisons
+src/main/java/main.java:82:	LiteralsFirstInComparisons:	LiteralsFirstInComparisons: Position literals first in String comparisons
